@@ -44,3 +44,7 @@ THEN I should have proper build scripts for a webpack application
 
 ![alt Webpage](/webapp-Capture.JPG)
 ![alt Installed page](/installapp-Capture.JPG)
+
+## DEPLOYMENT LINK
+
+https://text-editor-webpackapp.herokuapp.com/
